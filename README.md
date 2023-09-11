@@ -1,4 +1,6 @@
-# template-ts-API
-npm i -g typescript ts-node ts-node-dev
-
-tsc --init
+# Upload file API
+## How to use ?
+```
+yarn install
+yarn dev
+```
